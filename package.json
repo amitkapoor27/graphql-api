@@ -1,0 +1,20 @@
+{
+  "name": "graphql-api",
+  "version": "1.0.0",
+  "description": "Example GraphQL API with Node.js and ES modules",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "graphql": "^16.6.0",
+    "graphql-http": "^1.16.0",
+    "graphql-tools": "^8.3.19"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.22"
+  },
+  "license": "MIT"
+}
