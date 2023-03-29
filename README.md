@@ -12,7 +12,7 @@ To start the server, run npm start:
 npm start
 ```
 
-This will start the server on http://localhost:3000/graphql.
+This will start the server on **http://localhost:3000/graphql**.
 
 ## Example Queries
 Here are some example queries you can run in GraphiQL or GraphQL Playground:
@@ -62,7 +62,7 @@ Here are some example queries you can run in GraphiQL or GraphQL Playground:
 }
 ```
 ## Data Store
-User data is stored in a file named users.json. You can edit this file directly to add or modify users.
+User data is stored in a file named **users.json**. You can edit this file directly to add or modify users.
 
 ## License
 This project is licensed under the MIT License.
